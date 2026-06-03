@@ -1,4 +1,12 @@
-# Diving into XR with Unity Completed Project
-## Introduction
-This is the GitHub repository for the completed version of the Dive into XR with Unity workshop, hosted by the CARVR student org at UNCCH, and developed by Ashley Neall and Arryn O'Brien.
-[Instructions for the workshop itself can be found on this page.](https://github.com/carolina-ar-vr/dive-into-xr)
+# Погрузитесь в мир XR с Unity
+
+## Введение
+Мастер-класс Carolina AR/VR, который позволит вам создавать захватывающие интерактивные приложения в Unity – авторы: Эшли Нил и Аррин О'Брайен.
+
+## Инструкции к самому мастер-классу
+Этот мастер-класс познакомит студентов с разработкой приложений расширенной реальности (XR) в Unity — популярном игровом движке, используемом для разработки мобильных приложений дополненной, виртуальной и смешанной реальности для различных платформ.
+Благодаря мощным возможностям Unity, возможности для XR-приложений безграничны! Сегодня мы создадим подводное VR-приложение в Unity, используя XR Interaction Toolkit (XRI) и модуль Android Build Support (чтобы мы могли собрать это приложение для устройств Meta Quest).
+Мы начнем с концептуального обзора того, как работает Unity (то есть, что он скрывает «за кулисами» для нас, разработчиков) и его пользовательского интерфейса.
+Затем мы импортируем некоторые предварительно созданные подводные ресурсы (например, звуковые эффекты, 3D-модели, текстуры) и начнем разработку!
+
+## Подготовка к семинару
